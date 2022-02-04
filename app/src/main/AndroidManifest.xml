@@ -10,7 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DuitKu">
         <activity
+            android:name=".HarianActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DuitkuActivity"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegistrationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

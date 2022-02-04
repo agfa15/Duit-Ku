@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Duit Ku</string>
+
+    <string-array name="items">
+        <item>Select</item>
+        <item>Belanja Umum</item>
+        <item>Makanan</item>
+        <item>Transportasi</item>
+        <item>Tagihan Listrik</item>
+        <item>Paket Data</item>
+        <item>Kesehatan</item>
+        <item>Sekolah</item>
+        <item>Lainnya</item>
+    </string-array>
 </resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654655204542",
+    "project_id": "duit-ku-371ca",
+    "storage_bucket": "duit-ku-371ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654655204542:android:9478e28a98445450dc82ef",
+        "android_client_info": {
+          "package_name": "com.example.duitku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654655204542-ef6q71lv7l9cjos2agous26dnoviq197.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARxgT1DmTowx-Dot1W7LWdRFfr-_lTaZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654655204542-ef6q71lv7l9cjos2agous26dnoviq197.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
